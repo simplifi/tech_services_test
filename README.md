@@ -1,6 +1,6 @@
 
 # Tech Services Test
-This exercise will test your ability to work with code, the unix/linux command line and how to problem solve.  You can lookup answers on the internet to help you using google, documentation, tutorials, etc.
+This exercise will test your ability to follow instructions, work with code, use the unix/linux command line and your problem solving capabilities.  You can look up answers on the internet to help you using google, documentation, tutorials, etc.
 
 ### Links
 * Open the file links.html in a web browser.  You'll see a link but clicking on it doesn't work.
