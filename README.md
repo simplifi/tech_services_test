@@ -7,9 +7,9 @@ This exercise will test your ability to follow instructions, work with code, use
 * Open that same file in your text editor and fix the link so that it goes to google the way its supposed to.
 
 ### Iframe
-* Open the file iframe_ad.html in a web browser.  It should be showing an ad.
+* Open the file iframe_ad.html in a web browser.  It should display an ad, but it's currently broken.
 * Open it in a text editor.  You'll notice it uses the html "iframe" tag.
-* Fix the iframe so that the an ad displays.
+* Fix the iframe so that the ad displays.
 
 ### Grep
 * Grep is a linux/unix command that lets you search text from a terminal.  As an example, open the mac terminal and type in the following command:
